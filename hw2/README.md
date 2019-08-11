@@ -43,4 +43,4 @@
 		reaching the end.
 
 
-		Remaining description is described in TH2.pdf.
+		Remaining description is described in THE2.pdf.
