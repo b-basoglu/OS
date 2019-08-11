@@ -1,0 +1,6 @@
+This assignment aims to familiarize you with the development of multi-threaded applications
+and synchronization using C. Your task is to implement a simulator for mining (Turkish; maden
+çıkarma) by simulating the different agents within the scenario using different threads. Towards
+this end, you will be using mutexes, semaphores and condition variables for synchronizing the
+different threads.
+Keywords— Thread, Semaphore, Mutex, Condition Variable
