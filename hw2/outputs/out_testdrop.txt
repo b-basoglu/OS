@@ -1,0 +1,52 @@
+ThreadID: 00f7fa02b17f0000, MID: 1, TID: 0, SID: 0, FID: 0, time stamp: 124, AID: 0, Miner created.
+ThreadID: 00f7fa02b17f0000, MID: 1, TID: 0, SID: 0, FID: 0, time stamp: 244, AID: 1, Miner started mining Copper, current capacity: 0/3.
+ThreadID: 00c77af9b07f0000, MID: 0, TID: 1, SID: 0, FID: 0, time stamp: 254, AID: 4, Transporter created.
+ThreadID: 00e77a02b17f0000, MID: 0, TID: 0, SID: 1, FID: 0, time stamp: 171, AID: 9, Smelter created.
+ThreadID: 00c77a01b17f0000, MID: 0, TID: 2, SID: 0, FID: 0, time stamp: 313, AID: 4, Transporter created.
+ThreadID: 00d7fa01b17f0000, MID: 0, TID: 0, SID: 0, FID: 1, time stamp: 176, AID: 13, Foundry created.
+ThreadID: 00f7fa02b17f0000, MID: 1, TID: 0, SID: 0, FID: 0, time stamp: 429, AID: 2, Miner finished mining Copper, current capacity: 1/3.
+ThreadID: 00c77af9b07f0000, MID: 1, TID: 1, SID: 0, FID: 0, time stamp: 473, AID: 5, Transporter is traveling to miner.
+ThreadID: 00f7fa02b17f0000, MID: 1, TID: 0, SID: 0, FID: 0, time stamp: 593, AID: 1, Miner started mining Copper, current capacity: 1/3.
+ThreadID: 00c77af9b07f0000, MID: 1, TID: 1, SID: 0, FID: 0, time stamp: 789, AID: 6, Transporter take Copper from miner, current fill 0/3.
+ThreadID: 00f7fa02b17f0000, MID: 1, TID: 0, SID: 0, FID: 0, time stamp: 851, AID: 2, Miner finished mining Copper, current capacity: 1/3.
+ThreadID: 00c77a01b17f0000, MID: 1, TID: 2, SID: 0, FID: 0, time stamp: 897, AID: 5, Transporter is traveling to miner.
+ThreadID: 00f7fa02b17f0000, MID: 1, TID: 0, SID: 0, FID: 0, time stamp: 1027, AID: 1, Miner started mining Copper, current capacity: 1/3.
+ThreadID: 00c77af9b07f0000, MID: 0, TID: 1, SID: 1, FID: 0, time stamp: 1090, AID: 5, Transporter is traveling to smelter, carrying: Copper.
+ThreadID: 00c77a01b17f0000, MID: 1, TID: 2, SID: 0, FID: 0, time stamp: 1210, AID: 6, Transporter take Copper from miner, current fill 0/3.
+ThreadID: 00f7fa02b17f0000, MID: 1, TID: 0, SID: 0, FID: 0, time stamp: 1225, AID: 2, Miner finished mining Copper, current capacity: 1/3.
+ThreadID: 00c77af9b07f0000, MID: 0, TID: 1, SID: 1, FID: 0, time stamp: 1393, AID: 7, Transporter put Copper ore to smelter. Waiting Ore 1/4.
+ThreadID: 00f7fa02b17f0000, MID: 1, TID: 0, SID: 0, FID: 0, time stamp: 1394, AID: 1, Miner started mining Copper, current capacity: 1/3.
+ThreadID: 00c77a01b17f0000, MID: 0, TID: 2, SID: 1, FID: 0, time stamp: 1486, AID: 5, Transporter is traveling to smelter, carrying: Copper.
+ThreadID: 00f7fa02b17f0000, MID: 1, TID: 0, SID: 0, FID: 0, time stamp: 1596, AID: 2, Miner finished mining Copper, current capacity: 2/3.
+ThreadID: 00c77af9b07f0000, MID: 1, TID: 1, SID: 0, FID: 0, time stamp: 1703, AID: 5, Transporter is traveling to miner.
+ThreadID: 00f7fa02b17f0000, MID: 1, TID: 0, SID: 0, FID: 0, time stamp: 1761, AID: 1, Miner started mining Copper, current capacity: 2/3.
+ThreadID: 00c77a01b17f0000, MID: 0, TID: 2, SID: 1, FID: 0, time stamp: 1782, AID: 7, Transporter put Copper ore to smelter. Waiting Ore 2/4.
+ThreadID: 00e77a02b17f0000, MID: 0, TID: 0, SID: 1, FID: 0, time stamp: 1805, AID: 10, Smelter started producing Copper ingot. Waiting Ore 0/4.
+ThreadID: 00c77af9b07f0000, MID: 1, TID: 1, SID: 0, FID: 0, time stamp: 1999, AID: 6, Transporter take Copper from miner, current fill 1/3.
+ThreadID: 00f7fa02b17f0000, MID: 1, TID: 0, SID: 0, FID: 0, time stamp: 2043, AID: 2, Miner finished mining Copper, current capacity: 2/3.
+ThreadID: 00c77a01b17f0000, MID: 1, TID: 2, SID: 0, FID: 0, time stamp: 2084, AID: 5, Transporter is traveling to miner.
+ThreadID: 00c77af9b07f0000, MID: 0, TID: 1, SID: 1, FID: 0, time stamp: 2294, AID: 5, Transporter is traveling to smelter, carrying: Copper.
+ThreadID: 00f7fa02b17f0000, MID: 1, TID: 0, SID: 0, FID: 0, time stamp: 2334, AID: 1, Miner started mining Copper, current capacity: 2/3.
+ThreadID: 00c77a01b17f0000, MID: 1, TID: 2, SID: 0, FID: 0, time stamp: 2376, AID: 6, Transporter take Copper from miner, current fill 1/3.
+ThreadID: 00f7fa02b17f0000, MID: 1, TID: 0, SID: 0, FID: 0, time stamp: 2514, AID: 2, Miner finished mining Copper, current capacity: 2/3.
+ThreadID: 00c77af9b07f0000, MID: 0, TID: 1, SID: 1, FID: 0, time stamp: 2591, AID: 7, Transporter put Copper ore to smelter. Waiting Ore 1/4.
+ThreadID: 00c77a01b17f0000, MID: 0, TID: 2, SID: 1, FID: 0, time stamp: 2678, AID: 5, Transporter is traveling to smelter, carrying: Copper.
+ThreadID: 00f7fa02b17f0000, MID: 1, TID: 0, SID: 0, FID: 0, time stamp: 2680, AID: 3, Miner stopped mining Copper, current capacity: 2/3.
+ThreadID: 00c77af9b07f0000, MID: 1, TID: 1, SID: 0, FID: 0, time stamp: 2907, AID: 5, Transporter is traveling to miner.
+ThreadID: 00c77a01b17f0000, MID: 0, TID: 2, SID: 1, FID: 0, time stamp: 2986, AID: 7, Transporter put Copper ore to smelter. Waiting Ore 2/4.
+ThreadID: 00c77af9b07f0000, MID: 1, TID: 1, SID: 0, FID: 0, time stamp: 3199, AID: 6, Transporter take Copper from miner, current fill 1/3.
+ThreadID: 00c77a01b17f0000, MID: 1, TID: 2, SID: 0, FID: 0, time stamp: 3263, AID: 5, Transporter is traveling to miner.
+ThreadID: 00c77a01b17f0000, MID: 1, TID: 2, SID: 0, FID: 0, time stamp: 3555, AID: 6, Transporter take Copper from miner, current fill 0/3.
+ThreadID: 00e77a02b17f0000, MID: 0, TID: 0, SID: 1, FID: 0, time stamp: 3880, AID: 11, Smelter finished producing Copper ingot. 1 ingots are produced.
+ThreadID: 00c77a01b17f0000, MID: 0, TID: 2, SID: 1, FID: 0, time stamp: 3889, AID: 5, Transporter is traveling to smelter, carrying: Copper.
+ThreadID: 00c77a01b17f0000, MID: 0, TID: 2, SID: 1, FID: 0, time stamp: 4223, AID: 7, Transporter put Copper ore to smelter. Waiting Ore 3/4.
+ThreadID: 00e77a02b17f0000, MID: 0, TID: 0, SID: 1, FID: 0, time stamp: 4235, AID: 10, Smelter started producing Copper ingot. Waiting Ore 1/4.
+ThreadID: 00c77af9b07f0000, MID: 0, TID: 1, SID: 1, FID: 0, time stamp: 4285, AID: 5, Transporter is traveling to smelter, carrying: Copper.
+ThreadID: 00c77a01b17f0000, MID: 0, TID: 2, SID: 0, FID: 0, time stamp: 4541, AID: 8, Transporter stopped.
+ThreadID: 00c77af9b07f0000, MID: 0, TID: 1, SID: 1, FID: 0, time stamp: 4596, AID: 7, Transporter put Copper ore to smelter. Waiting Ore 2/4.
+ThreadID: 00c77af9b07f0000, MID: 0, TID: 1, SID: 0, FID: 0, time stamp: 4902, AID: 8, Transporter stopped.
+ThreadID: 00e77a02b17f0000, MID: 0, TID: 0, SID: 1, FID: 0, time stamp: 6362, AID: 11, Smelter finished producing Copper ingot. 2 ingots are produced.
+ThreadID: 00e77a02b17f0000, MID: 0, TID: 0, SID: 1, FID: 0, time stamp: 6375, AID: 10, Smelter started producing Copper ingot. Waiting Ore 0/4.
+ThreadID: 00e77a02b17f0000, MID: 0, TID: 0, SID: 1, FID: 0, time stamp: 8502, AID: 11, Smelter finished producing Copper ingot. 3 ingots are produced.
+ThreadID: 00d7fa01b17f0000, MID: 0, TID: 0, SID: 0, FID: 1, time stamp: 5000525, AID: 16, Foundry stopped. 0 steel ingots are produced.
+ThreadID: 00e77a02b17f0000, MID: 0, TID: 0, SID: 1, FID: 0, time stamp: 5008692, AID: 12, Smelter stopped. 3 Copper ingots are produced.
